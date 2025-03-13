@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
+<br/>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevali&layout=compact&count_private=true)
