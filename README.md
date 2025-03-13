@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Platform&Tools&Skills
+![Static Badge](https://img.shields.io/badge/Blog-clevali.cn-black?style=flat-square&logo=bloglovin&link=https%3A%2F%2Fwww.clevali.cn%2F)
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
