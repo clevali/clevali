@@ -30,11 +30,21 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-![Static Badge](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=nextdotjs&link=https%3A%2F%2Fwww.clevali.cn%2F)
+[![](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=nextdotjs&link=https%3A%2F%2Fwww.clevali.cn%2F)](https://nextjs.org/)
+[![](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nest.nodejs.cn/)
+[![](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nest.nodejs.cn/)
+[![](https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white)](https://cn.vuejs.org/)
+[![](https://img.shields.io/badge/Vitest-%236E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+
+[![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
