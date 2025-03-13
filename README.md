@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
-[![](https://img.shields.io/badge/PS5?style=flat-square&logo=Nintendo-Switch&logoColor=black)](https://www.playstation.com/zh-hans-hk/ps5/games/)
+![Static Badge](https://img.shields.io/badge/PS5-black?style=flat-square&logo=playstation)
 
 [![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
