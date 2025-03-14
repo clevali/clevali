@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
-![Static Badge](https://img.shields.io/badge/PS5-black?style=flat-square&logo=playstation)
+[![Static Badge](https://img.shields.io/badge/PS5-black?style=flat-square&logo=playstation)](https://www.playstation.com/zh-hans-hk/ps5/games/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
