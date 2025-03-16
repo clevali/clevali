@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Platform&Tools&Skills
-![Static Badge](https://img.shields.io/badge/Blog-clevali.cn-black?style=flat-square&logo=bloglovin&link=https%3A%2F%2Fwww.clevali.cn%2F)
+[![](https://img.shields.io/badge/Blog-clevali.cn-black?style=flat-square&logo=bloglovin&link=https%3A%2F%2Fwww.clevali.cn%2F)](https://www.clevali.cn/)
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
 [![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
