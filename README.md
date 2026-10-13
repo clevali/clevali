@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 #### Platform&Tools&Skills
 [![](https://img.shields.io/badge/Blog-clevali.cn-black?style=flat-square&logo=bloglovin&link=https%3A%2F%2Fwww.clevali.cn%2F)](https://www.clevali.cn/)
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
-
 [![](https://img.shields.io/badge/iPhone-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
 [![Static Badge](https://img.shields.io/badge/PS5-black?style=flat-square&logo=playstation)](https://www.playstation.com/zh-hans-hk/ps5/games/)
 
