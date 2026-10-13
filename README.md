@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=nextdotjs&link=https%3A%2F%2Fwww.clevali.cn%2F)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nest.nodejs.cn/)
-[![](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nest.nodejs.cn/)
 [![](https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white)](https://cn.vuejs.org/)
 [![](https://img.shields.io/badge/Vitest-%236E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
 [![](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
